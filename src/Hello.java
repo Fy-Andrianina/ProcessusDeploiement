@@ -1,8 +1,8 @@
 package Hello;
 
 import java.io.*;
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
 import java.util.*;
 
 public class Hello extends HttpServlet {
